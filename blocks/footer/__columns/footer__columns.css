@@ -1,0 +1,10 @@
+.footer__columns {
+  margin-bottom: 40px;
+  margin-top: 60px;
+  width: 90%;
+  display: grid;
+  justify-items: center;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: 1fr min-content;
+  row-gap: 50px;
+}

@@ -1,0 +1,16 @@
+.techniques {
+  width: 80%;
+  margin: 100px auto 0;
+}
+
+@media (max-width: 1100px) {
+  .techniques {
+    width: 100%;
+  }
+}
+
+@media (max-width: 800px) {
+  .techniques {
+    margin-top: 80px;
+  }
+}

@@ -1,0 +1,11 @@
+.logo_place_header {
+  padding: 30px 0 0 64px;
+  position: relative;
+  z-index: 2;
+}
+
+@media (max-width: 400px) {
+  .logo_place_header {
+    padding-left: 25px;
+  }
+}

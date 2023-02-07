@@ -1,0 +1,29 @@
+.resources__logo-zone {
+  margin: 80px auto 0;
+  width: 100%;
+  list-style-type: none;
+  padding: 0 64px;
+  box-sizing: border-box;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(270px, 1fr));
+  row-gap: 30px;
+  justify-items: center;
+}
+
+@media (max-width: 1000px) {
+  .resources__logo-zone {
+    margin-top: 30px;
+  }
+}
+
+@media (max-width: 600px) {
+  .resources__logo-zone {
+    padding: 0 25px;
+  }
+}
+
+@media (max-width: 400px) {
+  .resources__logo-zone {
+    padding: 0 15px;
+  }
+}

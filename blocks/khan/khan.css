@@ -1,0 +1,24 @@
+.khan {
+  background-color: #f2f2f2;
+  padding-top: 100px;
+  width: 100%;
+  margin: 0 auto;
+  padding-left: 64px;
+  padding-right:  64px;;
+  box-sizing: border-box;
+}
+
+@media (max-width: 800px) {
+  .khan {
+    padding-top: 80px;
+    width: 100%;
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+}
+@media (max-width: 500px) {
+  .khan {
+    padding-left: 25px;
+    padding-right: 25px;
+  }
+}

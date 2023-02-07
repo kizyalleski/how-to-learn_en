@@ -1,0 +1,5 @@
+.footer__column_content_copyright {
+  align-self: self-end;
+  grid-row-start: 2;
+  grid-column: 1/3;
+}

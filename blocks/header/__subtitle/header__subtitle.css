@@ -1,0 +1,45 @@
+.header__subtitle {
+  max-width: 388px;
+  position: relative;
+  z-index: 2;
+  line-height: 25px;
+  font-size: 18px;
+  font-weight: normal;
+  padding: 180px 64px 32px;
+  margin: 0;
+}
+
+@media (max-width: 1200px) {
+  .header__subtitle {
+    padding-top: 150px;
+  }
+}
+
+@media (max-width: 1000px) {
+  .header__subtitle {
+    padding-top: 100px;
+  }
+}
+
+@media (max-width: 800px) {
+  .header__subtitle {
+    max-width: 250px;
+    line-height: 20px;
+    font-size: 16px;
+  }
+}
+
+@media (max-width: 600px) {
+  .header__subtitle {
+    line-height: 16px;
+    font-size: 14px;
+    padding-top: 50px;
+    max-width: 200px;
+  }
+}
+
+@media (max-width: 500px) {
+  .header__subtitle {
+    padding-left: 25px;
+  }
+}

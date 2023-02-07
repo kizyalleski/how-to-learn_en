@@ -1,0 +1,16 @@
+.khan__quote {
+  line-height: 34px;
+  font-size: 24px;
+  font-weight: normal;
+  margin: 0;
+  quotes: none;
+  display: block;
+  /* width: 80%; */
+}
+
+@media (max-width: 800px) {
+  .khan__quote {
+    line-height: 28px;
+    font-size: 20px;
+  }
+}

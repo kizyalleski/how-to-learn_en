@@ -1,0 +1,39 @@
+.video__iframe {
+  margin-right: 20px;
+  width: 515px;
+  height: 316px;
+  border: none;
+}
+
+.video__iframe:last-of-type {
+  margin-right: 0;
+}
+
+@media (max-width: 1100px) {
+  .video__iframe {
+    width: 400px;
+    height: 250px;
+  }
+}
+
+@media (max-width: 900px) {
+  .video__iframe {
+    width: 515px;
+    height: 316px;
+    margin: 0;
+  }
+}
+
+@media (max-width: 600px) {
+  .video__iframe {
+    width: 400px;
+    height: 250px;
+  }
+}
+
+@media (max-width: 450px) {
+  .video__iframe {
+    width: 80%;
+    height: 200px;
+  }
+}

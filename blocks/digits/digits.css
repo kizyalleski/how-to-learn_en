@@ -1,0 +1,11 @@
+.digits {
+  margin: 100px 64px;
+  color: #000000;
+}
+
+@media (max-width: 800px) {
+  .digits {
+    margin-top: 80px;
+    margin-bottom: 80px;
+  }
+}

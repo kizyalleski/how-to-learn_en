@@ -1,0 +1,12 @@
+.description {
+  margin-top: 100px;
+  color: #1f1f1f;
+  display: flex;
+  justify-content: center;
+}
+
+@media (max-width: 800px) {
+  .description {
+    margin-top: 80px;
+  }
+}

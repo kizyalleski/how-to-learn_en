@@ -6,4 +6,4 @@ Techniques used: Nested BEM, Animation, iframes, YouTube API, FLEXBOX, GRID.
 
 **Проект на GitHub Pages**
 
-* [Ссылка на GitHub Pages](https://kizyalleski.github.io/how-to-learn/)
+* [Ссылка на GitHub Pages](https://kizyalleski.github.io/how-to-learn_en/)

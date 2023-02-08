@@ -1,13 +1,19 @@
 .khan__book-pic {
-  width: 50%;
+  max-width: 500px;
   margin-right: 48px;
   object-fit: cover;
   object-position: top;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 600px) {
   .khan__book-pic {
     margin-right: 25px;
+  }
+}
+
+@media (max-width: 500px) {
+  .khan__book-pic {
+    max-width: 150px;
   }
 }
 

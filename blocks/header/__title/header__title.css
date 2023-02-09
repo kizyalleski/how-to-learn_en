@@ -12,7 +12,7 @@
 
 @media (max-width: 1200px) {
   .header__title {
-    padding-top: 150px;
+    max-width: 500px;
     font-size: 80px;
     line-height: 80px;
   }

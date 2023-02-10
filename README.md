@@ -1,9 +1,9 @@
 # How to learn
 Web page is written in html5 and css.
 
-**Функциональность и технологии**
+**Functionality and technology**
 Techniques used: Nested BEM, Animation, iframes, YouTube API, FLEXBOX, GRID.
 
-**Проект на GitHub Pages**
+**Project on GitHub Pages**
 
-* [Ссылка на GitHub Pages](https://kizyalleski.github.io/how-to-learn_en/)
+* [Link to GitHub Pages](https://kizyalleski.github.io/how-to-learn_en/)

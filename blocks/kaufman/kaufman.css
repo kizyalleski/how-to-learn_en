@@ -10,3 +10,10 @@
     padding-bottom: 80px;
   }
 }
+
+@media (max-width: 500px) {
+  .kaufman {
+    padding-left: 25px;
+    padding-right: 25px;
+  }
+}
